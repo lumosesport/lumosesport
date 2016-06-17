@@ -18,7 +18,7 @@ header h1
     font-family: 'BallparkWeiner', serif;
     font-size: 2.5em;
     font-weight: normal;
-    margin: 50 %;
+    margin: 0 0 0 10px;
 }
 
 /* Navigation */
@@ -31,7 +31,7 @@ nav ul
 
 nav li
 {
-    margin-right: 50%;
+    margin-right: 15px;
 }
 
 nav a
